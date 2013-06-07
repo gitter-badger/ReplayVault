@@ -1,0 +1,38 @@
+Thu May 24 12:29:50 UTC 2012
+	Feature_Request Fixed --- You can use beta.sc2bc.com for testing
+Sat May 19 15:51:36 UTC 2012
+	Code_Defect Fixed --- Fix issue with inconsistent saving of preferences
+Tue May 15 20:46:28 UTC 2012
+	Code_Defect Fixed --- Titles in dialogs are still not displaying
+Tue May 15 18:27:14 UTC 2012
+	Code_Defect Fixed --- Add window titles
+	Code_Defect Fixed --- Tweak replay view
+Tue May 15 14:45:26 UTC 2012
+	Feature_Request Fixed --- Rework config into one tabbed dialog
+Sat May 12 17:46:48 UTC 2012
+	Code_Defect Fixed --- Y U NO STOP UPLOADING SCALA COMPILER?!
+Sat May 12 17:38:12 UTC 2012
+	Feature_Request Fixed --- Add ui for rescan configuration
+	Feature_Request Fixed --- Add upload configuration options
+Sat May 12 08:27:57 UTC 2012
+	Code_Defect Fixed --- Clean up sorting and filtering of replays in list replay view
+	Feature_Request Fixed --- Add native look and feel for widgets
+	Code_Defect Fixed --- Refactor sources dialog
+	Code_Defect Fixed --- Fix layouts
+Fri May 11 18:01:28 UTC 2012
+	Feature_Request Fixed --- Add sorting and filtering through replay list
+Thu May 10 18:16:28 UTC 2012
+	Feature_Request Fixed --- Store time of upload
+Tue May  8 20:14:35 UTC 2012
+	Code_Defect Fixed --- ReplayView keeps freezing for a while upon clicking on a replay
+Tue May  8 15:17:56 UTC 2012
+	Code_Defect Fixed --- System sometimes doesn't show any replays
+Mon May  7 07:51:01 UTC 2012
+	Code_Defect Fixed --- Lag and uselessness of the app when a source with whitespace in the path is selected
+Sun May  6 17:47:53 UTC 2012
+	Feature_Request Fixed --- Add some sort of changelog
+Sat May  5 19:37:11 UTC 2012
+	Feature_Request Fixed --- Create script for generating new changelog from the old one and raw tickets
+	Feature_Request Fixed --- Store url of uploaded replays
+Sat May  5 15:25:49 UTC 2012
+	Changelog started!

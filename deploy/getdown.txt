@@ -1,0 +1,11 @@
+appbase = http://replayuploader.s3.amazonaws.com/getdown/
+
+ui.name = Replay Vault
+
+apparg = %APPDIR%
+
+class = net.tomasherman.replayvault.client.Main
+
+resource = changelog.txt
+
+code = uploader.jar

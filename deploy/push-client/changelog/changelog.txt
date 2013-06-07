@@ -1,0 +1,6 @@
+Sat May  5 15:52:01 UTC 2012
+	Feature_Request Fixed --- Create script for generating new changelog from the old one and raw tickets
+Sat May  5 15:43:05 UTC 2012
+	Feature_Request Fixed --- Store url of uploaded replays
+Sat May  5 15:25:49 UTC 2012
+	Changelog started!
